@@ -1,5 +1,8 @@
 # Gas Tracker Pro - Real-Time Cross-Chain Gas Price Tracker
 
+## 🚀 Live Demo
+[https://project-hlezrbczb-krishnabandewars-projects.vercel.app](https://project-hlezrbczb-krishnabandewars-projects.vercel.app)
+
 A comprehensive Web3 dashboard for monitoring real-time gas prices across Ethereum, Polygon, and Arbitrum networks with advanced simulation capabilities.
 
 ## Features
@@ -107,6 +110,8 @@ npm run lint
 MIT License - see LICENSE file for details
 
 ## Demo
+
+Live deployment: [https://project-hlezrbczb-krishnabandewars-projects.vercel.app](https://project-hlezrbczb-krishnabandewars-projects.vercel.app)
 
 This application demonstrates:
 - Real-time WebSocket connections to multiple blockchain networks
